@@ -1,0 +1,50 @@
+.outerbox{
+    padding:50px;
+    background-color: rgb(139, 86, 22);
+    height:450px;
+    width:300px;
+    display:inline-block;
+}
+
+.individual{
+    height:300px;
+    width:300px;
+    
+    
+    background-color: aqua;
+}
+.description{
+    
+    height:150px;
+    width:300px;
+    padding-top: 20px;
+    
+    
+   
+}
+.description1{
+    background-color:rgb(209, 151, 64);
+    height:100px;
+    width:300px;
+    font-size: 23px;;
+}
+.image{
+    height:300px;
+    width:300px;
+}
+.buttn{
+    height:50px;
+    width:120px;
+    background-color: rgb(252, 160, 32);
+    display:block;
+    margin-left: 90px;
+}
+.adjust{
+    height: 50px;
+    width:120px;
+
+}
+.buy{
+    height:50px;
+    width:120px;
+}
